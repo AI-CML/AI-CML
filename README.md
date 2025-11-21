@@ -1,7 +1,7 @@
 ## 👋Welcome to AI-CML's GitHub!
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,100:87cefa&height=200&section=header&text=AI-LeeCM's%20GitHub&fontSize=45&fontAlign=50&fontAlignY=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,100:87cefa&height=200&section=header&text=AI-CML's%20GitHub&fontSize=45&fontAlign=50&fontAlignY=40&fontColor=ffffff&animation=fadeIn" />
   <p>
     🌟 <b>Dive into AI, Machine Learning, and Development!</b> 🌟
   </p>
