@@ -17,7 +17,7 @@
   - [건양대학교 소트웨어중심사업단] AWS Deepracer 동아리(2025. 10 ~ ing)
   - [건양대학교 인공지능학과] Oss Lab 동아리(2026. 04 ~ ing)
 - 🏆 수상
-  - 쿠팡 물류 대회(분야1, 이동) | 한국로봇교육콘텐츠협회장 (2025. 05. 30) | [쿠팡풀필먼트서비스, 과학기술정보통신부, 정보통신기획평가원] 주관
+  - 쿠팡 물류 대회(분야1, 이동) | 한국로봇교육콘텐츠협회장상 (2025. 05. 30) | [쿠팡풀필먼트서비스, 과학기술정보통신부, 정보통신기획평가원] 주관
   - AWS DeepRacer 인공지능 자율주행 자동차 AI 융합경진대회 │ 팀전 1등 2025.4 │ [건양대학교 소프트웨어중심사업단] 주관
   - 건양대학교 창업아이디어 경진대회 | 대상 2025.12.17 | [건양대학교 소프트웨어중심사업단] 주관
  
@@ -36,7 +36,6 @@
 - 🪪 자격증
   - [네이버 클라우드] - NAVER Cloud Platform Certified Associate [NCA] (2026. 01. 14)
 
-> 앞으로도 딥러닝과 자율주행 연구와 개발을 이어가며, 더 나은 사람 중심의 AI 시스템을 만들고 싶습니다.
 
 ---
 
@@ -47,9 +46,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </div>
 
 ---
